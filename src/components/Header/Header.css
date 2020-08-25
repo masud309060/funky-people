@@ -1,0 +1,20 @@
+.header {
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 50px;
+  }
+  .nav-bar {
+      background-color: black;
+      font-size: 18px;
+      line-height: 50px;
+      font-style: italic;
+    }
+    .nav-bar a {
+        text-decoration: none;
+        color: white;
+        padding: 6px 20px;
+        border-right: 1px solid gray;
+  }
+  .nav-bar a:hover {
+      background-color: gray;
+  }

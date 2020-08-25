@@ -1,0 +1,29 @@
+.user {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    color: #333;
+    margin: 10px;
+}
+
+.user-img img{
+    display: block;
+    border-radius: 50%;
+    border: 2px solid lightgray;
+    margin: 10px 20px;
+    height: 180px;
+}
+.user-info h3 {
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #222;
+    margin: 10px 0;
+}
+.user-info {
+    border-left: 2px solid lightgray;
+    padding: 5px 20px;
+}
+.user-info p {
+    margin: 6px 0;
+}
